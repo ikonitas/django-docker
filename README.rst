@@ -22,7 +22,7 @@ Locally
 
 Production
 
-Add `command: ./run_production.sh` in `docker-compose.yaml`.
+Add ``command: ./run_production.sh`` in `docker-compose.yaml`.
 
 Remove containers
 ~~~~~~~~~~~~~~~~~
