@@ -1,0 +1,7 @@
+web:
+  image: project_name
+  command: ./run_production.sh
+  volumes:
+    - .:/var/www
+  ports:
+    - "8000:80"
